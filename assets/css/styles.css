@@ -965,6 +965,10 @@ img {
 
 }
 
+.footer__socials{
+    text-align: center;
+}
+
 .footer__subtitle {
     font-size: var(--small-font-size);
 }
